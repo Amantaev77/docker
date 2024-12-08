@@ -2,6 +2,7 @@
 ```
 git clone https://github.com/Amantaev77/docker
 cd docker
+chmod +x install.sh
 sudo ./install.sh
 ```
 ###
